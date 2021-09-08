@@ -13,3 +13,10 @@
 
 ***Krish Naik SVM Kernals [Youtube Video](https://youtu.be/dl_ZsuHSIFE).***
 
+![Image0](https://github.com/bobbycodder/SVM-KERNAL-NON_LINEAR-DATASET-/blob/main/images/newplot.png)
+
+
+![Image1](https://github.com/bobbycodder/SVM-KERNAL-NON_LINEAR-DATASET-/blob/main/images/newplot%20(1).png)
+
+
+
